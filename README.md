@@ -18,8 +18,6 @@
 
 ---
 
-<img align="right" width="360" src="https://github-readme-stats.shion.dev/api/top-langs/?username=Ashritha-Abbabathula&theme=merko&hide_border=true&include_all_commits=true&count_private=true&layout=compact&bg_color=0d1117&title_color=5DCAA5&text_color=9FE1CB" alt="Top Languages"/>
-
 ### `> whoami`
 
 ```yaml
@@ -134,13 +132,6 @@ open_to     : Collaboration on real-world impactful tech
 
 ---
 
-## 🔝 Top Contributed Repos
-
-<div align="center">
-
-![Top Repos](https://github-contributor-stats.vercel.app/api?username=Ashritha-Abbabathula&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
-</div>
 
 ---
 

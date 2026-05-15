@@ -128,14 +128,6 @@ open_to     : Collaboration on real-world impactful tech
 
 ![Trophies](https://github-profile-trophy.vercel.app/?username=Ashritha-Abbabathula&theme=matrix&no-frame=true&no-bg=true&margin-w=6&column=7)
 
-</div>
-
----
-
-
----
-
-<div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0,0f6e56,1a1f35,0d1117&height=120&section=footer" alt="footer"/>
 

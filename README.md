@@ -111,6 +111,22 @@ open_to     : Collaboration on real-world impactful tech
 
 ---
 
+## 🏅 Certifications
+
+<div align="center">
+
+| Certificate | Issuer | Date | Hours | Verify |
+|---|---|---|---|---|
+| **Responsive Web Design** | freeCodeCamp | May 23, 2026 | ~300 hrs | [🔗 View](https://www.freecodecamp.org/certification/abbabathula-ashritha/responsive-web-design-v9) |
+
+<br/>
+
+[![freeCodeCamp](https://img.shields.io/badge/freeCodeCamp-Responsive_Web_Design-0d1117?style=for-the-badge&logo=freecodecamp&logoColor=5DCAA5&labelColor=0d1117)](https://www.freecodecamp.org/certification/abbabathula-ashritha/responsive-web-design-v9)
+
+</div>
+
+---
+
 ## 📊 GitHub Stats
 
 <div align="center">

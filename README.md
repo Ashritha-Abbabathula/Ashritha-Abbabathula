@@ -4,7 +4,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0,0d1117,1a1f35,0f6e56&height=200&section=header&text=Ashritha%20Abbabathula&fontSize=42&fontColor=5DCAA5&fontAlignY=38&desc=Robotics%20·%20AI%2FML%20·%20Computer%20Vision%20·%20Full-Stack&descColor=9FE1CB&descAlignY=58&descSize=16" alt="header"/>
 
 <!-- TYPING ANIMATION -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&pause=1000&color=5DCAA5&center=true&vCenter=true&width=600&lines=Building+systems+at+the+edge+of+hardware+%2B+AI;Robotics+%7C+Computer+Vision+%7C+Full-Stack;Open+to+collaborate+on+real-world+tech)](https://git.io/typing-svg)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&pause=1000&color=5DCAA5&center=true&vCenter=true&width=600&lines=Building+systems+at+the+edge+of+hardware+%2B+AI;Robotics+%7C+Computer+Vision+%7C+Full-Stack;Open+to+collaborate+on+real-world+tech)
 
 <br/>
 
